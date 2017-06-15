@@ -1,1 +1,4 @@
 https://www.ted.com/speakers/hans_rosling
+  - This link has a profile of and several talks by Hans Rosling
+  - Additionally it highlights the gapminder data set
+  - In R you can use library(gapminder)
