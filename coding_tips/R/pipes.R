@@ -26,3 +26,11 @@ x %>%
   exp() %>%
   round(1)
   
+
+# if you don't want to pipe into the first argument use a .
+
+2 %>% log(5, base=.)
+
+# is equivalent to
+
+log(5,base=2)
