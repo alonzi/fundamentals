@@ -2,3 +2,4 @@ https://www.gapminder.org/
   - You can find lots of public health data here.
   - Gapminder is an independent Swedish foundation with no political, religious or economic affiliations. 
   - Gapminder is a fact tank, not a think tank.
+  - There is an R package: install.packages("gapminder")
