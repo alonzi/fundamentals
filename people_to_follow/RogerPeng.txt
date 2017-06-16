@@ -1,0 +1,4 @@
+http://www.biostat.jhsph.edu/~rpeng/
+  - Data Science Podcast: https://soundcloud.com/nssd-podcast (needs reccomendation)
+  - Several books on leanpub including "R Programming for Data Science" (needs reccomendation)
+  - Lots of youtube videos
