@@ -34,3 +34,23 @@ x %>%
 # is equivalent to
 
 log(5,base=2)
+
+
+# even better example that will replace the previous example (stolen from Hadley Wickham)
+
+foo_foo <- little_bunny()
+
+bop_on(
+  scoop_up(
+    hop_through(foo_foo, forest),
+    field_mouse
+  ),
+  head
+)
+
+# becomes
+
+foo_foo %>%
+  hop_through(forest) %>%
+  scoop_up(field_mouse) %>%
+  bop_on(head)
