@@ -1,0 +1,2 @@
+http://www.seanlahman.com/baseball-archive/statistics/
+install.packages("Lahman")
