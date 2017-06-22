@@ -1,3 +1,9 @@
 http://vita.had.co.nz/papers/layered-grammar.pdf
   - by Hadley Wickham
   - learn more about the theoretical underpinnings of ggplot2
+  
+  nb: uses old terminology
+  eg: ggplot(data = diamonds, mapping = aes(price)) +
+        layer(geom = "bar", stat = "bin",
+        mapping = aes(y = ..count..))
+      instead of geom_bar it's layer(geom="bar"...)
