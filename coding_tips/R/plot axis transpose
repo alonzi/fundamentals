@@ -1,0 +1,3 @@
+ggplot(...) + geom(...) + coord_flip()
+
+the coord_flip() transposes the horizontal and the vertical axis. this is useful for long axis labels or horizontal plots.
