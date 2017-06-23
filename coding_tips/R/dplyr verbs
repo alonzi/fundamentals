@@ -1,0 +1,5 @@
+filter() # use to subset operations based on value: select all events with attendance greater than 20,000
+arrange() # change the order of rows: sort your data in ascending order
+select() # use to reduce the number of columns in data frame: return a new data frame with only certain columns
+mutate() # use to create a new column based on a function of other columns: compute velocity from distance and time in new col
+summarise() # use to produce summaries of data: compute the mean of the values in a column
