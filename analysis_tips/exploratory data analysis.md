@@ -7,4 +7,5 @@ for a great intro read: http://r4ds.had.co.nz/exploratory-data-analysis.html
 >1. What type of variation occurs within my variables?
 >2. What type of covariation occurs between my variables?
 
-*
+* The best way to spot covariation is to visualise the relationship between two or more variables.
+* 
