@@ -1,4 +1,4 @@
-for a great intro read: http://r4ds.had.co.nz/exploratory-data-analysis.html  (it's chapter 7)
+for a great intro read: http://r4ds.had.co.nz/exploratory-data-analysis.html  (it's chapter 7, here are some excerpts)
 
 * exploratory data analysis, or EDA for short
 * EDA is not a formal process with a strict set of rules. More than anything, EDA is a state of mind.
