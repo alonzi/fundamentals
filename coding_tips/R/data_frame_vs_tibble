@@ -1,6 +1,8 @@
 tibbles are data frames
 
 function to convert a data.frame to a tibble: as_tibble(...)
+function to convert a tibble to a data.frame: as.data.frame(...)
+
 
 There are two main differences in the usage of a tibble vs. a classic data.frame: printing and subsetting.
 
