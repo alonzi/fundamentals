@@ -6,3 +6,17 @@ function to convert a tibble to a data.frame: as.data.frame(...)
 
 There are two main differences in the usage of a tibble vs. a classic data.frame: printing and subsetting.
 
+tibble printing is truncated to save the console
+
+tibble subsetting is as follows (df is a tibble)
+# Extract by name
+df$x
+#> [1] 0.434 0.395 0.548 0.762 0.254
+df[["x"]]
+#> [1] 0.434 0.395 0.548 0.762 0.254
+
+# Extract by position
+df[[1]]
+#> [1] 0.434 0.395 0.548 0.762 0.254
+
+data.frame subsetting is as follows
