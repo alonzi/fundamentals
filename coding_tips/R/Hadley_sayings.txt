@@ -1,1 +1,2 @@
-Tibbles are data frames that are lazy & surly
+"Tibbles are data frames that are lazy & surly"
+“Tidy datasets are all alike, but every messy dataset is messy in its own way.”
