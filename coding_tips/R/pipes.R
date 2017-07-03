@@ -1,4 +1,5 @@
 # stolen from Hadley Wickam
+# Packages in the tidyverse load %>% for you automatically, so you don’t usually load magrittr explicitly. 
 
 f(x,y) # is pretty easy to read
 f(g(x,y),z) # is a little harder to read
