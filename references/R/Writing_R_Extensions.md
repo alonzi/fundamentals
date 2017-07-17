@@ -1,1 +1,1 @@
-https://cran.r-project.org/doc/manuals/r-release/R-exts.html
+[Writing R Extensions](https://cran.r-project.org/doc/manuals/r-release/R-exts.html)
