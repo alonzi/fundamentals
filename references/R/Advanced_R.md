@@ -1,1 +1,1 @@
-http://adv-r.had.co.nz/
+[Advanced R](http://adv-r.had.co.nz/)
